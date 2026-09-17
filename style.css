@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white; 
+}
+
+.tarjeta_padre {
+    width: 600px;
+    display: block;
+    margin: auto;
+    padding: 0px;
+}
+
+.tarjeta_hijo_nombre {
+    background-color: orange;
+}
+
+.tarjeta_hijo_descripcion {
+    background-color: red;
+}
