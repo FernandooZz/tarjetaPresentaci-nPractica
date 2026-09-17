@@ -3,6 +3,14 @@ body{
     color: white; 
 }
 
+p {
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
 .tarjeta_padre {
     width: 600px;
     display: block;
@@ -12,8 +20,10 @@ body{
 
 .tarjeta_hijo_nombre {
     background-color: orange;
+    text-align: center;
 }
 
 .tarjeta_hijo_descripcion {
     background-color: red;
+    text-align: justify;
 }
